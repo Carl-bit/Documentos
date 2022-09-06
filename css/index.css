@@ -43,9 +43,25 @@ nav a:hover{
 /*Fin del header*/
 
 /*Inicio del contenido del body*/
+
 /*Fin del contenido del body*/
 
 /*Inicio del Footer*/
+footer{
+    text-align: center;
+    /*background: url(bg.jpg);*/
+    background: linear-gradient(45deg,#9D23FA,#01FF0E);
+    padding: 40px;
+}
+
+.logo-foot{
+    width: 20%;
+}
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+}
 /*Fin del footer*/
 
 /*Esto no deberia estar, pero inicio de la portabilidad de los moviles, aiuda necesito un api luego*/
