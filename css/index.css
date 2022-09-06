@@ -1,0 +1,52 @@
+/*Inicio del header*/
+
+header{
+    background-color: #9D23FA;
+    padding: 20px 0;
+}
+
+.logo{
+    width: 20%;
+    margin-left: 2px;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+.caja{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+/*Fin del header*/
+
+/*Inicio del contenido del body*/
+/*Fin del contenido del body*/
+
+/*Inicio del Footer*/
+/*Fin del footer*/
+
+/*Esto no deberia estar, pero inicio de la portabilidad de los moviles, aiuda necesito un api luego*/
+/*fin del mucho texto*/
